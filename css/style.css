@@ -1,0 +1,38 @@
+/* RESET CSS */ 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* SEZIONE ID */
+
+/* SEZIONE TAG */
+
+header{
+    background-color: rgb(33, 37, 41);
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+/* SEZIONE CLASSI */
+
+.bg-image{
+    width: 50px;
+}
+
+.bg-nav{
+    width: 200px;
+}
+
+.m-right{
+    margin-right: 50px;
+}
+
+.t-color{
+    color: rgb(115, 118, 120);
+}
